@@ -2,7 +2,8 @@
 permalink: index
 published: 2024-11-25
 ---
-Welcome. I just created this site (nov 2024), so not a lot to find here yet. Sorry. But things slowly start to appear!
+Welcome. This site was created in november 2024. I added some pages and then decided (december 15th) to put it on my own server with MkDocs
+instead of on Obsidian Publish. Added it to GitHub, and here we are.
 
 Mars
 
@@ -16,7 +17,8 @@ Mars
 
 ---
 ## Changelog
-
+* 20241215
+  * put the files in MkDocs and on my own server instead of on Obsidian Publish. Made some small edits to the contact and home pages.
 * 20241210
 	* added the [[Planning your automatic transactional-update]] page.
 * 20241209

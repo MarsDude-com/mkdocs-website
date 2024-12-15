@@ -4,7 +4,7 @@ theme:
   palette: dark
 nav:
   - Home: index.md
-  - About: Contact.md
+  - Contact: contact.md
   - MicroOS: 
     - Introduction: microos/introduction.md
     - Planning updates: microos/planning-update.md
