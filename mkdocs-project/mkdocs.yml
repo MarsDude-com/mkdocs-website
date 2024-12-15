@@ -1,6 +1,16 @@
 site_name: MarsDude.com
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: lime
+  font:
+    code: Roboto Mono
+plugins:
+  - privacy:
+      links_attr_map:
+        target: _blank
 nav:
   - Home: index.md
   - Contact: contact.md

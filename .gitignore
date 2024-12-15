@@ -9,7 +9,7 @@
 # Ingore the dynamic MkDocs site folder
 
 mkdocs-project/site/
-
+mkdocs-project/.cache/
 # Office temporary files
 
 *.tmp
