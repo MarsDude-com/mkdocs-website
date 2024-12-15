@@ -1,7 +1,6 @@
 site_name: MarsDude.com
 theme:
-  name: terminal
-  palette: dark
+  name: material
 nav:
   - Home: index.md
   - Contact: contact.md
